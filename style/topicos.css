@@ -1,11 +1,11 @@
 .tópicos {
-    background: var(--azul-degrade);
+    background: var(--verde);
     text-align: center;
     padding: 1em 0;
 }
 
 .tópicos__titulo {
-    color: var(--branco);
+    color: var(--amarelo);
     font-weight: 300;
     margin-bottom: 1em;
 }
