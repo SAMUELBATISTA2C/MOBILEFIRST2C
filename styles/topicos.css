@@ -23,7 +23,7 @@
 .tópicos__link {
     color: var(--verde);
     padding: 1em;
-    background-color: var(--verde);
+    background-color: #008000;
     text-decoration: none;
     font-size: 14px;
     font-weight: 700;
